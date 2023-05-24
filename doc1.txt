@@ -1,2 +1,3 @@
 prueba
 añado linea desde github
+añadir linea desde rama1 al doc1.txt
